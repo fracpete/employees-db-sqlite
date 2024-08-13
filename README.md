@@ -38,7 +38,7 @@ A database schema can be found in the [MySQL documentation](https://dev.mysql.co
 * open/access it with your favorite database tool (eg [DBeaver](https://dbeaver.io/))
 
 ## Disclaimer
-To the best of my knowledge, this data is fabricated and it does not correspond to real people. Any similarity to existing people is purely coincidental.
+To the best of my knowledge, this data is fabricated and it does not correspond to real people. Any similarity to existing people is purely coincidental. ([source](https://web.archive.org/web/20211016111214/http://timecenter.cs.aau.dk/Data/employeeReadme.txt))
 
 ## License
 This work is licensed under the Creative Commons Attribution-Share Alike 3.0
