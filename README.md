@@ -8,7 +8,7 @@ Version: 1.0.6
 ## Where it comes from
 The original data was created by Fusheng Wang and Carlo Zaniolo at Siemens
 Corporate Research. The data is in XML format.
-http://timecenter.cs.aau.dk/software.htm
+[http://timecenter.cs.aau.dk/software.htm](https://web.archive.org/web/20220120205430/http://timecenter.cs.aau.dk/software.htm)
 
 Giuseppe Maxia made the relational schema and Patrick Crews exported the data
 in relational format.
@@ -36,6 +36,9 @@ A database schema can be found in the [MySQL documentation](https://dev.mysql.co
   the database
 * decompress it: `gunzip employees_db-full-1.0.6.db.gz`
 * open/access it with your favorite database tool (eg [DBeaver](https://dbeaver.io/))
+
+## Disclaimer
+To the best of my knowledge, this data is fabricated and it does not correspond to real people. Any similarity to existing people is purely coincidental.
 
 ## License
 This work is licensed under the Creative Commons Attribution-Share Alike 3.0
